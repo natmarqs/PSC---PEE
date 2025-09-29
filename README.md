@@ -41,7 +41,8 @@ A performance dos modelos foi avaliada no conjunto de Teste utilizando as métri
 
 <img width="714" height="257" alt="image" src="https://github.com/user-attachments/assets/0de60d76-34d5-49ef-b8ae-658c9932f4ff" />
 
-**Melhor Solução**
+**Melhor Solução:**
+
 O Modelo Baseline obteve o menor erro (RMSE/MAE).
 Conclusão: Este resultado, embora inesperado, indica que a volatilidade do desmatamento no período de teste foi baixa, fazendo com que o valor do último ano conhecido fosse o estimador mais preciso.
 
