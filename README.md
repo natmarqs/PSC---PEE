@@ -1,6 +1,10 @@
 # PSC---PPEE (UnB)
-#Aluna: Natália Andrade Marques
+#####################################################################################################################################################################################################################
+
+Aluna: Natália Andrade Marques
+
 Repositório para comportailhamento das atividades realizadas na disciplina Privacidade e Segurança Cibernética do programa de Mestrado Profissional de Engenharia Elétrica (PPEE) da Universidade de Brasília
+
 #####################################################################################################################################################################################################################
 
 MVP: Modelagem Preditiva do Desmatamento no Brasil (Séries Temporais Univariadas)
